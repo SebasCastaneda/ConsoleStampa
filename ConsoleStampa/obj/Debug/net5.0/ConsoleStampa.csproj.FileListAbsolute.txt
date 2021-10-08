@@ -1,0 +1,16 @@
+C:\Users\carlos.soto.ITT\Documents\ConsoleStampa\ConsoleStampa\bin\Debug\net5.0\ConsoleStampa.exe
+C:\Users\carlos.soto.ITT\Documents\ConsoleStampa\ConsoleStampa\bin\Debug\net5.0\ConsoleStampa.deps.json
+C:\Users\carlos.soto.ITT\Documents\ConsoleStampa\ConsoleStampa\bin\Debug\net5.0\ConsoleStampa.runtimeconfig.json
+C:\Users\carlos.soto.ITT\Documents\ConsoleStampa\ConsoleStampa\bin\Debug\net5.0\ConsoleStampa.runtimeconfig.dev.json
+C:\Users\carlos.soto.ITT\Documents\ConsoleStampa\ConsoleStampa\bin\Debug\net5.0\ConsoleStampa.dll
+C:\Users\carlos.soto.ITT\Documents\ConsoleStampa\ConsoleStampa\bin\Debug\net5.0\ref\ConsoleStampa.dll
+C:\Users\carlos.soto.ITT\Documents\ConsoleStampa\ConsoleStampa\bin\Debug\net5.0\ConsoleStampa.pdb
+C:\Users\carlos.soto.ITT\Documents\ConsoleStampa\ConsoleStampa\obj\Debug\net5.0\ConsoleStampa.csproj.AssemblyReference.cache
+C:\Users\carlos.soto.ITT\Documents\ConsoleStampa\ConsoleStampa\obj\Debug\net5.0\ConsoleStampa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.soto.ITT\Documents\ConsoleStampa\ConsoleStampa\obj\Debug\net5.0\ConsoleStampa.AssemblyInfoInputs.cache
+C:\Users\carlos.soto.ITT\Documents\ConsoleStampa\ConsoleStampa\obj\Debug\net5.0\ConsoleStampa.AssemblyInfo.cs
+C:\Users\carlos.soto.ITT\Documents\ConsoleStampa\ConsoleStampa\obj\Debug\net5.0\ConsoleStampa.csproj.CoreCompileInputs.cache
+C:\Users\carlos.soto.ITT\Documents\ConsoleStampa\ConsoleStampa\obj\Debug\net5.0\ConsoleStampa.dll
+C:\Users\carlos.soto.ITT\Documents\ConsoleStampa\ConsoleStampa\obj\Debug\net5.0\ref\ConsoleStampa.dll
+C:\Users\carlos.soto.ITT\Documents\ConsoleStampa\ConsoleStampa\obj\Debug\net5.0\ConsoleStampa.pdb
+C:\Users\carlos.soto.ITT\Documents\ConsoleStampa\ConsoleStampa\obj\Debug\net5.0\ConsoleStampa.genruntimeconfig.cache
