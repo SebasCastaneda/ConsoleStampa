@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlos.soto.ITT\\Documents\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj": {}
+    "C:\\Users\\prof.lucchi\\Documents\\ProgettoStampa\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlos.soto.ITT\\Documents\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj": {
+    "C:\\Users\\prof.lucchi\\Documents\\ProgettoStampa\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlos.soto.ITT\\Documents\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj",
+        "projectUniqueName": "C:\\Users\\prof.lucchi\\Documents\\ProgettoStampa\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj",
         "projectName": "ConsoleStampa",
-        "projectPath": "C:\\Users\\carlos.soto.ITT\\Documents\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj",
-        "packagesPath": "C:\\Users\\carlos.soto.ITT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlos.soto.ITT\\Documents\\ConsoleStampa\\ConsoleStampa\\obj\\",
+        "projectPath": "C:\\Users\\prof.lucchi\\Documents\\ProgettoStampa\\ConsoleStampa\\ConsoleStampa\\ConsoleStampa.csproj",
+        "packagesPath": "C:\\Users\\prof.lucchi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prof.lucchi\\Documents\\ProgettoStampa\\ConsoleStampa\\ConsoleStampa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\carlos.soto.ITT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\prof.lucchi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
